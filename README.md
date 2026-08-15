@@ -154,6 +154,17 @@ smailr-mail-assistant/
 
 如发现问题或有功能建议，欢迎通过本仓库的 [Issues](https://github.com/EvanTop/smailr-mail-assistant/issues) 提交。也可以访问作者主页：[evan.xin](https://evan.xin)。
 
+## 插件界面
+
+|                                                                                         |                                                                                         |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ![img](https://github.com/user-attachments/assets/b5127d37-89eb-4439-81a5-c790b9d73aa2) | ![img](https://github.com/user-attachments/assets/d83b5a95-7c5b-48e7-b515-b4f652152261) |
+| ![img](https://github.com/user-attachments/assets/75b6577b-ee99-4ac7-b741-73b1edc081ad) | ![img](https://github.com/user-attachments/assets/ec23220f-538e-44b0-8d4b-5d55b46d3302) |
+
+
+
+
+
 ## 参考资料
 
 [1]: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world "Chrome for Developers：本地加载未打包扩展与重新加载说明"
