@@ -2,6 +2,8 @@
 
 > 专为 Smailr 设计，提供了便捷的扩展功能。
 
+> [最新V2.1版本下载地址](https://github.com/EvanTop/smailr-mail-assistant/releases)
+
 **Smailr 邮件助手**是一个基于 **Manifest V3** 的 Chromium 浏览器扩展。它通过用户自行创建的 Smailr API 密钥，在任意浏览器页面的工具栏中快速查看收件箱、切换多个账户并接收新邮件提醒。扩展以本地存储为中心，不依赖读取网页端的登录会话；首次配置完成后即可从浏览器工具栏使用。
 
 | 项目 | 当前信息 |
