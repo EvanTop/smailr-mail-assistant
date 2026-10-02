@@ -1,4 +1,4 @@
-> Smailr的Chrome插件已经做了APP https://github.com/EvanTop/smailrx
+> Smailr的Chrome插件已经做了成APP https://github.com/EvanTop/smailrx
 
 # Smailr 邮件助手
 
