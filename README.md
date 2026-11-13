@@ -1,5 +1,8 @@
+<img width="1920" height="1280" alt="11111" src="https://github.com/user-attachments/assets/7e6c3721-7187-45ac-aad2-598cc316e83a" />
+
 <img width="1722" height="1213" alt="image" src="https://github.com/user-attachments/assets/a79c69df-672d-4225-a2d8-77f1eb29dd22" />
 
+---
 
 > Smailr的Chrome插件已经做了成APP https://github.com/EvanTop/smailrx
 
